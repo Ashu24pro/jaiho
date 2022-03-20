@@ -1,0 +1,5 @@
+{
+		"ip":"A_smp_minecraft.aternos.me",
+		"port":"33424",
+		"name":"online_players"
+}
